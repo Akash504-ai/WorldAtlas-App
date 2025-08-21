@@ -90,3 +90,18 @@ button:hover {
     font-size: 2rem;
   }
 }
+
+.success-popup {
+  position: fixed;
+  top: 20px;
+  left: 41%;
+  transform: translateX(-50%);
+  background: #4caf50;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 6px;
+  font-weight: 600;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  z-index: 9999;
+  display: flex;
+}
