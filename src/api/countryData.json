@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "countryName": "Nepal",
+    "capital": "Kathmandu",
+    "population": 29609632,
+    "interestingFact": "Nepal is the home of Mount Everest, the tallest mountain in the world."
+  },
+  {
+    "id": 2,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1428627663,
+    "interestingFact": "India has the world's largest democracy and is known for the Taj Mahal."
+  },
+  {
+    "id": 3,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 123294513,
+    "interestingFact": "Japan is famous for its cherry blossoms and advanced technology."
+  },
+  {
+    "id": 4,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 26540000,
+    "interestingFact": "Australia is home to the Great Barrier Reef, the largest coral reef system in the world."
+  },
+  {
+    "id": 5,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 216500000,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+  },
+  {
+    "id": 6,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 112716598,
+    "interestingFact": "Egypt is famous for the ancient pyramids and the Sphinx."
+  },
+  {
+    "id": 7,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 40476000,
+    "interestingFact": "Canada has the longest coastline in the world."
+  },
+  {
+    "id": 8,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 68042591,
+    "interestingFact": "France is the most visited country in the world, known for the Eiffel Tower."
+  }
+]

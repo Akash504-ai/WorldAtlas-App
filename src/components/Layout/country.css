@@ -1,0 +1,74 @@
+/* Parent list (where <CountryCard /> lives) */
+.country-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* responsive row */
+  gap: 20px;
+  padding: 20px;
+  list-style: none;
+  margin: 0 auto;
+  max-width: 1400px; /* keeps it centered */
+}
+
+/* Each card */
+.country-card {
+  background-color: #fff; /* white card */
+  border: 2px solid #000; /* black border */
+  border-radius: 10px;
+  overflow: hidden;
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.country-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Image container */
+.countryy img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-bottom: 2px solid #000;
+}
+
+/* Text details */
+.country-details {
+  padding: 15px;
+  background: #fff;
+  color: #000;
+}
+
+.country-details h3 {
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* Paragraphs */
+.country-details p {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+.country-details span {
+  font-weight: bold;
+  color: #000;
+}
+
+/* Read More button */
+.country-details button {
+  margin-top: 10px;
+  padding: 8px 14px;
+  border: 2px solid #000;
+  background: #fff;
+  color: #000;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.2s ease-in-out;
+}
+
+.country-details button:hover {
+  background: #000;
+  color: #fff;
+}
