@@ -3,6 +3,8 @@
 A responsive React application to explore countries around the world.
 Built with React, Vite, and Framer Motion, it allows users to search, filter, and view detailed information about countries using a public API.
 
+🔗 **Live Demo:** [World Atlas App](https://world-atlas-app-psi.vercel.app)
+
 ✨ Features
 
 🔍 Search countries by name
