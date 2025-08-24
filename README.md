@@ -66,6 +66,8 @@ npm run dev
 <img width="1853" height="901" alt="image" src="https://github.com/user-attachments/assets/f64724a2-09bf-4c24-8b3c-4aa46c809629" />
 <img width="1890" height="909" alt="image" src="https://github.com/user-attachments/assets/05aef0f0-c20d-4037-ab1b-b5ec85a12e2d" />
 
-👨‍💻 Author
+📜 License
+This project is licensed under the MIT License.
 
+👨‍💻 Author
 Built with ❤️ by Akash Santra
