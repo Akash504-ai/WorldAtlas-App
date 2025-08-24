@@ -47,6 +47,7 @@ react_country/
 │── vite.config.js
 
 ⚡ Getting Started
+
 1️⃣ Clone the repository
 git clone https://github.com/your-username/worldatlas-app.git
 cd worldatlas-app
@@ -65,4 +66,4 @@ npm run dev
 
 👨‍💻 Author
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by Akash Santra
